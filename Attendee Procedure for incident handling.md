@@ -2,7 +2,7 @@ This procedure has been adopted from the Ada Initiative's guide titled "[Confere
 
 1. Keep in mind that all conference staff will be wearing a conference t-shirt/button with the word “STAFF” on it (or otherwise clearly marked as staff). The staff will also be prepared to handle the incident.  All of our staff are informed of the [code of conduct policy](/2013/about/code-of-conduct/) and guide for handling harassment at the conference. *There will be a mandatory staff meeting onsite at the conference when this will be reiterated as well.*
 
-2. Report the harassment incident (preferably in writing) to a conference staff member - all reports are confidential, please do not disclose public information about the incident until the staff have had sufficient time in which to address the situation.
+2. Report the harassment incident (preferably in writing) to a conference staff member - all reports are confidential, please do not disclose public information about the incident until the staff have had sufficient time in which to address the situation - this is as much for your safety and protection as it is the other attendees..
 
    When reporting the event to staff, try to gather as much information as available, but do not interview people about the incident - Staff will assist you in writing the report/collecting information.
 
