@@ -58,7 +58,7 @@ Give accused attendees a place to appeal to if there is one, but in the meantime
 
 It is very important how we deal with the incident publicly. Our policy is to make sure that everyone aware of the initial incident is also made aware that it is not according to policy and that official action has been taken - while still respecting the privacy of individual attendees.  When speaking to individuals (those who are aware of the incident, but were not involved with the incident) about the incident it is a good idea to keep the details out.
 
-Depending on the incident, the conference chair or his or her designate may decide to make one or more public announcements. If necessary, this will be done with a short announcement either during the plenary and/or through other channels. No one other than the conference chair or someone delegated authority from the conference chair should make any announcements. No personal information about either party will be disclosed as part of this process.
+Depending on the incident, the conference chair, or designate, may decide to make one or more public announcements. If necessary, this will be done with a short announcement either during the plenary and/or through other channels. No one other than the conference chair or someone delegated authority from the conference chair should make any announcements. No personal information about either party will be disclosed as part of this process.
 
 If some attendees were angered by the incident, it is best to apologize to them that the incident occurred to begin with.  If there are residual hard feelings, suggest to them to write an email to the conference chair or to the event coordinator. It will be dealt with accordingly.
 
