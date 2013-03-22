@@ -12,3 +12,6 @@ evolving daily. Each year we see massive improvements (such as the code of condu
 was no different.
 
 We hope, as a team we can iterate and improve continually.
+
+No changes are final until approved by the PyCon Chair / Staff and versions in place for a given year will be clearly
+marked, the website contents on us.pycon.org will clearly state the revision of the documents posted.
