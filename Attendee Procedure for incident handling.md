@@ -18,6 +18,6 @@ The staff is well informed on how to deal with the incident and how to further p
 
 3. If everyone is presently physically safe, involve law enforcement or security only at a victim's request. If you do feel your safety in jeopardy please do not hesitate to contact local law enforcement by dialing 911. If you do not have a cell phone, you can use any hotel phone or simply ask a staff member.
 
-**Note**: Public shaming can be counter-productive to building a strong community. PyCon does not condone nor participate in such actions out of respect.
+**Note**: Incidents that violate the Code of Conduct are extremely damaging to the community, and they will not be tolerated. The silver lining is that, in many cases, these incidents present a chance for the offenders, and the community at large, to grow, learn, and become better. Use your best judgment with regard to reporting an incident. PyCon staff requests that they be your first resort so that they may enforce the Code of Conduct and take quick action toward a resolution.
 
 A listing of [PyCon staff is located here](/2013/about/staff/), including contact phone numbers. If at all possible, all reports should be made directly to [Ewa Jodlowska](mailto:ewa@python.org) (Event Coordinator) or [Jesse Noller](mailto:jnoller@python.org) (PyCon Chair).
