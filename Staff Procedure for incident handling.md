@@ -15,18 +15,18 @@ Try to get as much of the incident in written form by the reporter. If you canno
 
 Prepare an initial response to the incident. This initial response is very important and will set the tone for PyCon. Depending on the severity/details of the incident, please follow these guidelines:
 
- - If there is any general threat to attendees or the safety of anyone including conference staff is in doubt, summon security or police.
+ - If there is any general threat to attendees or the safety of anyone including conference staff is in doubt, summon security or police
  - Offer the victim a private place to sit
  - Ask "is there a friend or trusted person who you would like to be with you?" (if so, arrange for someone to fetch this person)
  - Ask them "how can I help?"
  - Provide them with your list of emergency contacts if they need help later
- - If everyone is presently physically safe, involve law enforcement or security only at a victim's request.
+ - If everyone is presently physically safe, involve law enforcement or security only at a victim's request
 
 There are also some guidelines as to what not to do as an initial response:
 
  - Do not overtly invite them to withdraw the complaint or mention that withdrawal is OK. This suggests that you want them to do so, and is therefore coercive. "If you're OK with it [pursuing the complaint]" suggests that you are by default pursuing it and is not coercive.
- - Do not ask for their advice on how to deal with the complaint. This is a staff responsibility
- - Do not offer them input into penalties. This is the staff's responsibility
+ - Do not ask for their advice on how to deal with the complaint. This is a staff responsibility.
+ - Do not offer them input into penalties. This is the staff's responsibility.
 
 Once something is reported to a staff member, immediately meet with the conference chair and/or event coordinator. The main objectives of this meeting is to find out the following:
 
@@ -37,7 +37,7 @@ Once something is reported to a staff member, immediately meet with the conferen
 
 After the staff meeting and discussion, have a staff member (preferably the conference chair or event coordinator if available) communicate with the alleged harasser. Make sure to inform them of what has been reported about them.
 
-Allow the alleged harasser to give their side of the story to the staff. After this point, if report stands, let the alleged harasser know what actions will be taken against them.
+Allow the alleged harasser to give their side of the story to the staff. After this point, if the report stands, let the alleged harasser know what actions will be taken against them.
 
 Some things for the staff to consider when dealing with Code of Conduct offenders:
 
