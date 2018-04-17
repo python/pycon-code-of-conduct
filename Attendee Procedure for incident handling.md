@@ -4,7 +4,7 @@
 
 If you believe someone has violated the [PyCon Code of Conduct](https://us.pycon.org/2018/about/code-of-conduct/), we encourage you to report it. If you are unsure whether the incident is a violation, or whether the space where it happened is covered by this Code of Conduct, we encourage you to still report it. We are fine with receiving reports where we decide to take no action for the sake of creating a safer space.
 
-During the conference, you can make a reported to a trained incident responder, who will be wearing brightly colored shirts. You can also email <TBD> or call 440-641-0886, which will reach one of the lead incident responders listed below:
+During the conference, you can make a reported to a trained incident responder, who will be wearing brightly colored shirts. You can also email <pycon-us-report@python.org> or call 440-641-0886, which will reach one of the lead incident responders listed below:
 
 * Sage Sharp <report@otter.technology>, PyCon US Incident Responder, 503-384-8831
 * Ewa Jodlowska <ewa@python.org>, PyCon US Coordinator
@@ -33,20 +33,23 @@ In some cases we may determine that a public statement will need to be made. If 
 
 ## Report Handling Procedure
 
-When you make a report to an incident responder, they will gather information about the incident according to the PyCon U.S. Staff Procedure For Incident Response (LINK).
+When you make a report to an incident responder, they will gather information about the incident according to the PyCon US [Staff Procedure For Incident Response] (https://us.pycon.org/2018/about/code-of-conduct/staff-procedure/).
 
 After an incident responder takes the report, they will immediately consult with the lead incident responders (Sage Sharp, Ewa Jodlowska, and Ernest W. Durbin III).
 
 If the incident is ongoing and needs to be immediately addressed, any one of the lead incident responders may take appropriate action to ensure the safety of everyone involved.
 
-If the incident is less urgent, the three incident leads will meet within 24 hours to determine an appropriate response. Examples of possible incident responses are outlined in the PyCon U.S. Staff Procedure For Incident Response (LINK).
+If the incident is less urgent, the three incident leads will meet within 24 hours to determine an appropriate response. Examples of possible incident responses are outlined in the PyCon US [Staff Procedure For Incident Response](https://us.pycon.org/2018/about/code-of-conduct/staff-procedure/).
 
 Before the conference, staff will have a mandatory meeting where incident response procedures will be outlined. After the conference, all incident responders will attend a debriefing session with the lead responders to discuss all incidents and determine any necessary follow-up actions.
-Following Up With Reporters
+
+## Following Up With Reporters
+
 Within one week of an incident report, the lead responders will follow up with the person who made the report and provided their contact information. The follow up may include:
-An acknowledgment that the PyCon U.S. lead responders discussed the situation
-Whether or not the report was determined to be a violation of the Code of Conduct
-What actions (if any) were taken to correcting the reporter behavior
+
+* An acknowledgment that the PyCon U.S. lead responders discussed the situation
+* Whether or not the report was determined to be a violation of the Code of Conduct
+* What actions (if any) were taken to correcting the reporter behavior
 
 In some cases, the lead responders may need to ask additional questions about the incident in order to identify the reported person.
 
