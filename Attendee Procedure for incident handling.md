@@ -4,11 +4,18 @@
 
 If you believe someone has violated the [PyCon Code of Conduct](https://us.pycon.org/2018/about/code-of-conduct/), we encourage you to report it. If you are unsure whether the incident is a violation, or whether the space where it happened is covered by this Code of Conduct, we encourage you to still report it. We are fine with receiving reports where we decide to take no action for the sake of creating a safer space.
 
-During the conference, you can make a reported to a trained incident responder, who will be wearing brightly colored shirts. You can also email <pycon-us-report@python.org> or call 440-641-0886, which will reach one of the lead incident responders listed below:
+During the conference, you can make a reported to a trained incident responder, who will be wearing brightly colored shirts. You can also email <pycon-us-report@python.org> or call +1 (440) 641 0886, which will reach one of the lead incident responders listed below:
 
-* Sage Sharp <report@otter.technology>, PyCon US Incident Responder, 503-384-8831
-* Ewa Jodlowska <ewa@python.org>, PyCon US Coordinator
-* Ernest W. Durbin III <ernest@python.org>, PyCon US Chair
+* Sage Sharp
+    * PyCon US - Incident Responder
+    * <report@otter.technology>
+    * +1 (503) 384 8831
+* Ewa Jodlowska
+    * Python Software Foundation - Director of Operations
+    * <ewa@python.org>
+* Ernest W. Durbin III
+    * PyCon US - Conference Chair
+    * <ernest@python.org>
 
 ## Report Data
 

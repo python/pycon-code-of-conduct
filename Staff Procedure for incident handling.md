@@ -16,10 +16,19 @@ Also have a good understanding of what is expected from an attendee that wants t
 1. Seek additional emergency resources as needed (consult the volunteer guide)
 1. Take down the report and ask any clarifying questions
 1. Thank the reporter for reporting the incident
-1. Call 440-641-8831 to report the incident to the lead incident responders. In case of a conflict of interest, you can individually contact:
-  * Sage Sharp, PyCon U.S. Incident Responder, <report@otter.technology> 503-384-8831
-  * Ewa Jodlowska <ewa@python.org>, PyCon U.S. Coordinator
-  * Ernest W. Durbin III <ernest@python.org>, PyCon U.S. Chair
+1. Call +1 (440) 641 8831 to report the incident to the lead incident responders. In case of a conflict of interest, you can individually contact:
+
+  * Sage Sharp
+      * PyCon US - Incident Responder
+      * <report@otter.technology>
+      * +1 (503) 384 8831
+  * Ewa Jodlowska
+      * Python Software Foundation - Director of Operations
+      * <ewa@python.org>
+  * Ernest W. Durbin III
+      * PyCon US - Conference Chair
+      * <ernest@python.org>
+      * +1 (216) 202 4393
 
 ### While gathering information from the reporter:
 
@@ -110,12 +119,15 @@ If some attendees were angered by the incident, it is best to apologize to them 
 
 All reports should be made directly to:
 
-* Ewa Jodlowska, Event Coordinator, ewa@python.org
-* Ernest W. Durbin III, Conference Chair, ernest@python.org
+* Ewa Jodlowska
+    * Python Software Foundation - Director of Operations
+    * ewa@python.org
+* Ernest W. Durbin III
+    * PyCon US - Conference Chair
+    * +1 (216) 202 4393
+    * ernest@python.org
 
 If contact cannot be made via phone or email, please proceed to the staff room: ROOM 11 at the Huntington Convention Center.
-Based on Revision
-
 
 ---
 

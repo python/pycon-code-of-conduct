@@ -51,8 +51,13 @@ Exhibitors in the expo hall, sponsor or vendor booths, or similar activities are
 ## Contact Information
 If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact either our conference chair or the event coordinator(s):
 
-- Ewa Jodlowska, Director of Operations ewa@python.org
-- Ernest W. Durbin III, Conference Chair ernest@python.org
+- Ewa Jodlowska
+    - Python Software Foundation - Director of Operations
+    - ewa@python.org
+- Ernest W. Durbin III
+    - PyCon US - Conference Chair
+    - +1 (216) 202 4393
+    - ernest@python.org
 
 Conference staff will be happy to help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the conference. We value your attendance.
 
