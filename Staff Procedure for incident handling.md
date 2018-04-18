@@ -16,7 +16,9 @@ Also have a good understanding of what is expected from an attendee that wants t
 1. Seek additional emergency resources as needed (consult the volunteer guide)
 1. Take down the report and ask any clarifying questions
 1. Thank the reporter for reporting the incident
-1. Call +1 (440) 641 8831 to report the incident to the lead incident responders. In case of a conflict of interest, you can individually contact:
+1. Call or SMS +1 (216) 208 7987 to report the incident to the lead incident responders listed below.
+
+In case of a conflict of interest, you can individually contact:
 
   * Sage Sharp
       * PyCon US - Incident Responder
@@ -109,7 +111,7 @@ What follows are examples of possible responses to an incident report. This list
 * Removing a person  from membership of relevant organizations
 * Publishing an account of the incident and calling for the resignation of a person from their responsibilities (usually pursued by people without formal authority: may be called for if the person is the event leader, or refuses to stand aside from the conflict of interest, or similar, typically event staff have sufficient governing rights over their space that this isn't as useful)
 
-Give reported person a place to appeal to if there is one. Keep in mind that it is not a good idea to encourage an apology from the harasser.
+If a reported person wants to appeal the decision, notify them that they may contact the Python Software Foundation Board <psf@python.org>. Keep in mind that it is not a good idea to encourage an apology from the reported person.
 
 It is very important how we deal with the incident publicly. Our policy is to make sure that everyone aware of the initial incident is also made aware that it is not according to policy and that official action has been taken - while still respecting the privacy of individual attendees. When speaking to individuals (those who are aware of the incident, but were not involved with the incident) about the incident it is a good idea to keep the details out.
 

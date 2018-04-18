@@ -4,16 +4,21 @@ PyCon US is a community conference intended for networking and collaboration in 
 
 We value the participation of each member of the Python community and want all attendees to have an enjoyable and fulfilling experience. Accordingly, all attendees are expected to show respect and courtesy to other attendees throughout the conference and at all conference events, whether officially sponsored by the Python Software Foundation or not.
 
-To make clear what is expected, all delegates/attendees, speakers, exhibitors, organizers and volunteers at any PyCon event are required to conform to the following Code of Conduct. Organizers will enforce this code throughout the event.
+To make clear what is expected, all staff, attendees, speakers, exhibitors, organizers, and volunteers at any PyCon event are required to conform to the following Code of Conduct. Organizers will enforce this code throughout the event.
 
 ## Our Standards
 
-PyCon is dedicated to providing a harassment-free conference experience for everyone, regardless of age, gender identity and expression, sexual orientation, disability, physical appearance, body size, ethnicity, nationality, race, or religion (or lack thereof), education, or socio-economic status.
+PyCon is dedicated to providing a positive conference experience for everyone, regardless of age, gender identity and expression, sexual orientation, disability, physical appearance, body size, ethnicity, nationality, race, or religion (or lack thereof), education, or socio-economic status.
 
 Examples of behavior that contributes to creating a positive environment include:
 
 - Being kind to others
 - Behaving professionally
+- Using welcoming and inclusive language
+- Being respectful of differing viewpoints and experiences
+- Gracefully accepting constructive criticism
+- Focusing on what is best for the community
+- Showing empathy towards other community members
 
 Examples of unacceptable behavior by participants include:
 
@@ -49,22 +54,34 @@ All PyCon US attendees are subject to the Code of Conduct. This includes PyCon U
 Exhibitors in the expo hall, sponsor or vendor booths, or similar activities are also subject to the Code of Conduct. In particular, exhibitors should not use sexualized images, activities, or other material. Booth staff (including volunteers) should not use sexualized clothing/uniforms/costumes, or otherwise create a sexualized environment.
 
 ## Contact Information
-If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact either our conference chair or the event coordinator(s):
 
-- Ewa Jodlowska
-    - Python Software Foundation - Director of Operations
-    - ewa@python.org
-- Ernest W. Durbin III
-    - PyCon US - Conference Chair
-    - +1 (216) 202 4393
-    - ernest@python.org
+If you believe that someone is violating the code of conduct during a PyCon event, or have any other concerns, please contact a member of the event staff immediately.
 
-Conference staff will be happy to help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the conference. We value your attendance.
+- **PyCon Incident Report Hotline**
+    - Automated dialer of the individuals listed below
+    - +1 (216) 208 7987 (Telephone or SMS)
+    - <pycon-us-report@python.org>
 
-## Procedure for Handling Harassment
+In case of a conflict of interest, you can individually contact:
 
-[Attendee Procedure for incident handling](https://us.pycon.org/2018/about/code-of-conduct/harassment-incidents/)
-[Staff Procedure for incident handling](https://us.pycon.org/2018/about/code-of-conduct/harassment-incidents-staff/)
+  * Sage Sharp
+      * PyCon US - Incident Responder
+      * <report@otter.technology>
+      * +1 (503) 384 8831
+  * Ewa Jodlowska
+      * Python Software Foundation - Director of Operations
+      * <ewa@python.org>
+  * Ernest W. Durbin III
+      * PyCon US - Conference Chair
+      * <ernest@python.org>
+      * +1 (216) 202 4393
+
+Conference staff will be happy to help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist any attendee to feel safe for the duration of the conference. We value your attendance.
+
+## Procedure for Handling Incidents
+
+[Attendee Procedure for incident handling](https://us.pycon.org/2018/about/code-of-conduct/attendee-procedure/)
+[Staff Procedure for incident handling](https://us.pycon.org/2018/about/code-of-conduct/staff-procedure/)
 
 ## License
 
