@@ -117,16 +117,13 @@ It is very important how we deal with the incident publicly. Our policy is to ma
 
 Depending on the incident, the conference chair or their designate may decide to make one or more public announcements. If necessary, this will be done with a short announcement either during the plenary and/or through other channels. No one other than the conference chair or someone delegated authority from the conference chair should make any announcements.
 
-If some attendees were angered by the incident, it is best to apologize to them that the incident occurred to begin with. If there are residual hard feelings, suggest to them to write an email to the conference chair or to the event coordinator. It will be dealt with accordingly.
-
-All reports should be made directly to:
+If some attendees were angered by the incident, it is best to apologize to them that the incident occurred to begin with. If there are residual hard feelings, suggest to them to write an email to the conference chair or to the event coordinator listed below. It will be dealt with accordingly.
 
 * Ewa Jodlowska
     * Python Software Foundation - Director of Operations
     * ewa@python.org
 * Ernest W. Durbin III
     * PyCon US - Conference Chair
-    * +1 (216) 202 4393
     * ernest@python.org
 
 If contact cannot be made via phone or email, please proceed to the staff room: ROOM 11 at the Huntington Convention Center.
