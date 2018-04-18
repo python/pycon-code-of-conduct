@@ -1,4 +1,4 @@
-#Staff Procedure For Incident Response
+# Staff Procedure For Incident Response
 
 Be sure to have a good understanding of our Code of Conduct, which can be found here:
 
