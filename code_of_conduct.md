@@ -1,57 +1,100 @@
+# Code of Conduct
+
 PyCon US is a community conference intended for networking and collaboration in the developer community.
 
-We value the participation of each member of the Python community and want all attendees to have an enjoyable and fulfilling experience. Accordingly, all attendees are expected to show respect and courtesy to other attendees throughout the conference and at all conference events, whether officially sponsored by PyCon or not.
+We value the participation of each member of the Python community and want all attendees to have an enjoyable and fulfilling experience. Accordingly, all attendees are expected to show respect and courtesy to other attendees throughout the conference and at all conference events, whether officially sponsored by the Python Software Foundation or not.
 
-To make clear what is expected, all delegates/attendees, speakers, exhibitors, organizers and volunteers at any PyCon event are required to conform to the following Code of Conduct. Organizers will enforce this code throughout the event.
+To make clear what is expected, all staff, attendees, speakers, exhibitors, organizers, and volunteers at any PyCon event are required to conform to the following Code of Conduct. Organizers will enforce this code throughout the event.
 
-The Short Version
------------------
+## Our Standards
 
-PyCon is dedicated to providing a harassment-free conference experience for everyone, regardless of gender, sexual orientation, disability, physical appearance, body size, race, or religion. We do not tolerate harassment of conference participants in any form.
+PyCon is dedicated to providing a positive conference experience for everyone, regardless of age, gender identity and expression, sexual orientation, disability, physical appearance, body size, ethnicity, nationality, race, or religion (or lack thereof), education, or socio-economic status.
 
-All communication should be appropriate for a professional audience including people of many different backgrounds. Sexual language and imagery is not appropriate for any conference venue, including talks.
+Examples of behavior that contributes to creating a positive environment include:
 
-Be kind to others. Do not insult or put down other attendees. Behave professionally. Remember that harassment and sexist, racist, or exclusionary jokes are not appropriate for PyCon.
+- Being kind to others
+- Behaving professionally
+- Using welcoming and inclusive language
+- Being respectful of differing viewpoints and experiences
+- Gracefully accepting constructive criticism
+- Focusing on what is best for the community
+- Showing empathy towards other community members
 
-Attendees violating these rules may be asked to leave the conference without a refund at the sole discretion of the conference organizers.
+Examples of unacceptable behavior by participants include:
 
-Thank you for helping make this a welcoming, friendly event for all.
+- Harassment of conference participants in any form
+- Deliberate intimidation, stalking, or following
+- Violent threats or language directed against another person
+- Sexual language and imagery in any conference venue, including talks
+- Insults or put downs
+- Sexist, racist, homophobic, transphobic, ableist, or exclusionary jokes
+- Excessive swearing
+- Unwelcome sexual attention or advances
+- Unwelcome physical contact
+- Sustained disruption of talks or other events
+- Other conduct that is inappropriate for a professional audience including people of many different backgrounds
 
-The Longer Version
-------------------
 
-Harassment includes offensive verbal comments related to gender, sexual orientation, disability, physical appearance, body size, race, religion, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention.
-
-Participants asked to stop any harassing behavior are expected to comply immediately.
-
-Exhibitors in the expo hall, sponsor or vendor booths, or similar activities are also subject to the anti-harassment policy. In particular, exhibitors should not use sexualized images, activities, or other material. Booth staff (including volunteers) should not use sexualized clothing/uniforms/costumes, or otherwise create a sexualized environment.
-
-Be careful in the words that you choose. Remember that sexist, racist, and other exclusionary jokes can be offensive to those around you. Excessive swearing and offensive jokes are not appropriate for PyCon.
+Participants asked to stop any inappropriate behavior are expected to comply immediately.
 
 If a participant engages in behavior that violates this code of conduct, the conference organizers may take any action they deem appropriate, including warning the offender or expulsion from the conference with no refund.
 
-Contact Information
--------------------
+Thank you for helping make this a welcoming, friendly event for all.
 
-If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of conference staff. Conference staff will be wearing "PyCon Staff" t-shirts. You may also contact hotel staff and ask to be put in touch with the conference chair &mdash; Jesse Noller.
+### Weapons Policy
 
-If the matter is especially urgent, please call/contact any of these individuals:
+No weapons are allowed at conference venues, including but not limited to explosives (including fireworks), guns, and large knives such as those used for hunting or display, as well as any other item used for the purpose of causing injury or harm to others. Anyone seen in possession of one of these items will be asked to leave immediately, and will only be allowed to return without the weapon.
 
-- Jesse Noller at +1 (978) 212-9863
-- Diana Clarke (co-chair) at +1 (416) 453-3130
-- Jacob Kaplan-Moss (program chair) at +1 (785) 766-2474
-- Ewa Jodlowska (event coordinator) at +1 (773) 599-3845
+Attendees are further expected to comply with all state and local laws on this matter.
 
-Conference staff will be happy to help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the conference. We value your attendance.
+##Scope
 
-Procedure for Handling Harassment
-------------------------------------------
-- [Attendee Procedure for incident handling](https://us.pycon.org/2013/about/code-of-conduct/harassment-incidents/)
-- [Staff Procedure for incident handling](https://us.pycon.org/2013/about/code-of-conduct/harassment-incidents-staff/)
+All PyCon US attendees are subject to the Code of Conduct. This includes PyCon US staff and volunteers, as well as attendees of the tutorials, workshops, summits, poster sessions, receptions, conference, sprints, and sponsored or unofficial events.
 
-License
--------
+Exhibitors in the expo hall, sponsor or vendor booths, or similar activities are also subject to the Code of Conduct. In particular, exhibitors should not use sexualized images, activities, or other material. Booth staff (including volunteers) should not use sexualized clothing/uniforms/costumes, or otherwise create a sexualized environment.
 
-This Code of Conduct was forked from the example policy from the [Geek Feminism wiki, created by the Ada Initiative and other volunteers.](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy) which is under a Creative Commons Zero license.
+## Contact Information
 
-<a rel="license" href="http://creativecommons.org/licenses/by/3.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by/3.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">Conference Code of Conduct</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://us.pycon.org/2013/about/code-of-conduct/" property="cc:attributionName" rel="cc:attributionURL">https://us.pycon.org/2013/about/code-of-conduct/</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 Unported License</a>.
+If you believe that someone is violating the code of conduct during a PyCon event, or have any other concerns, please contact a member of the event staff immediately.
+
+- **PyCon Incident Report Hotline**
+    - Automated dialer of the individuals listed below
+    - +1 (216) 208 7987 (Telephone or SMS)
+    - <pycon-us-report@python.org>
+
+In case of a conflict of interest, you can individually contact:
+
+  * Sage Sharp
+      * PyCon US - Incident Responder
+      * <report@otter.technology>
+      * +1 (503) 384 8831
+  * Ewa Jodlowska
+      * Python Software Foundation - Director of Operations
+      * <ewa@python.org>
+  * Ernest W. Durbin III
+      * PyCon US - Conference Chair
+      * <ernest@python.org>
+      * +1 (216) 202 4393
+
+Conference staff will be happy to help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist any attendee to feel safe for the duration of the conference. We value your attendance.
+
+## Procedure for Handling Incidents
+
+[Attendee Procedure for incident handling](https://us.pycon.org/2018/about/code-of-conduct/attendee-procedure/)
+[Staff Procedure for incident handling](https://us.pycon.org/2018/about/code-of-conduct/staff-procedure/)
+
+## License
+
+This Code of Conduct was forked from the example policy from the [Geek Feminism wiki, created by the Ada Initiative and other volunteers](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy), which is under a Creative Commons Zero license.
+
+Additional language was added by [Otter Tech](https://otter.technology/) from:
+
+- [Contributor Covenant version 1.4](https://www.contributor-covenant.org/version/1/4/code-of-conduct) (licensed [CC BY 4.0](https://github.com/ContributorCovenant/contributor_covenant/blob/master/LICENSE.md))
+- [Django Project Code of Conduct](https://www.djangoproject.com/conduct/) (licensed [CC BY 3.0](http://creativecommons.org/licenses/by-sa/3.0/))
+- [Rust Code of Conduct](https://www.rust-lang.org/en-US/conduct.html)
+- Citizen Code of Conduct (licensed [CC BY SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/))
+- [Affect Conf Code of Conduct](https://affectconf.com/coc/) (licensed [CC BY 3.0](http://creativecommons.org/licenses/by-sa/3.0/)).
+
+[![Creative Commons License](http://i.creativecommons.org/l/by/3.0/88x31.png)](http://creativecommons.org/licenses/by/3.0/)
+
+The PyCon Code of Conduct is licensed under a [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/).

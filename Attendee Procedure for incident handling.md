@@ -1,38 +1,78 @@
-This procedure has been adopted from the Ada Initiative's guide titled "[Conference anti-harassment/Responding to Reports](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Responding_to_reports)”.
+# Attendee Procedure For Reporting Code of Conduct Incidents
 
-1\. Keep in mind that all conference staff will be wearing a conference t-shirt/button with the word “STAFF”
-on it (or otherwise clearly marked as staff). The staff will also be prepared to handle the incident.
-All of our staff are informed of the [code of conduct policy](/2013/about/code-of-conduct/) and guide
-for handling harassment at the conference. *There will be a mandatory staff meeting onsite at the conference
-when this will be reiterated.*
+**If you believe someone is in physical danger**, consult with a volunteer or staff member for the appropriate crisis number, non-emergency number, or police number.
 
-2\. Report the harassment incident (preferably in writing) to a conference staff member. All reports
-are confidential. Please do not disclose public information about the incident until the staff have
-had sufficient time in which to address the situation. This is as much for your safety and protection
-as it is the other attendees.
+If you believe someone has violated the [PyCon Code of Conduct](https://us.pycon.org/2018/about/code-of-conduct/), we encourage you to report it. If you are unsure whether the incident is a violation, or whether the space where it happened is covered by this Code of Conduct, we encourage you to still report it. We are fine with receiving reports where we decide to take no action for the sake of creating a safer space.
 
-When reporting the event to staff, try to gather as much information as available but do not
-interview people about the incident. Staff will assist you in writing the report/collecting information.
+During the conference you can make a reportedi:
 
-The important information consists of:
+  - To a trained incident responder, who will be wearing brightly colored shirts.
+  - Email **<pycon-us-report@python.org>**
+  - Contact **+1 (216) 208 7987** via voice call or SMS, to reach one of the lead incident responders listed below.
 
-- Identifying information (name/badge number) of the participant doing the harassing
-- The behavior that was in violation
-- The approximate time of the behavior (if different than the time the report was made)
-- The circumstances surrounding the incident
-- Other people involved in the incident
+In the event of a conflict of interest, you may directly contact any of the lead incident responders:
 
-The staff is well informed on how to deal with the incident and how to further proceed with the situation.
+  * Sage Sharp
+      * PyCon US - Incident Responder
+      * <report@otter.technology>
+      * +1 (503) 384 8831
+  * Ewa Jodlowska
+      * Python Software Foundation - Director of Operations
+      * <ewa@python.org>
+  * Ernest W. Durbin III
+      * PyCon US - Conference Chair
+      * <ernest@python.org>
+      * +1 (216) 202 4393
 
-3\. If everyone is presently physically safe, involve law enforcement or security only at a victim's request.
-If you do feel your safety in jeopardy please do not hesitate to contact local law enforcement by
-dialing 911. If you do not have a cell phone, you can use any hotel phone or simply ask a staff member.
+## Report Data
 
-**Note**: Incidents that violate the Code of Conduct are extremely damaging to the community, and they
-will not be tolerated. The silver lining is that, in many cases, these incidents present a chance for
-the offenders, and the community at large, to grow, learn, and become better. PyCon staff requests
-that they be your first resource when reporting a PyCon-related incident, so that they may enforce
-the Code of Conduct and take quick action toward a resolution.
+If you make a report via email or phone, please include:
 
-A listing of [PyCon staff is located here](/2013/about/staff/), including contact phone numbers.
-If at all possible, all reports should be made directly to [Ewa Jodlowska](mailto:ewa@python.org) (Event Coordinator) or [Jesse Noller](mailto:jnoller@python.org) (PyCon Chair).
+* Your contact info (so we can get in touch with you if we need to follow up)
+* Date and time of the incident
+* Location of incident
+* Whether the incident is ongoing
+* Description of the incident
+* Identifying information of the reported person: name, physical appearance, height, clothing, voice accent, identifying badge information such as company name, ribbons, or badge number
+* Additional circumstances surrounding the incident
+* Other people involved in or witnesses to the incident and their contact information or description
+
+## Confidentiality
+
+**All reports will be kept confidential**. When we discuss incidents with people who are reported, we will anonymize details as much as we can to protect reporter privacy.
+
+However, some incidents happen in one-on-one interactions, and even if the details are anonymized, the reported person may be able to guess who made the report. If you have concerns about retaliation or your personal safety, please note those in your report. We still encourage you to report, so that we can support you while keeping our conference attendees safe. In some cases, we can compile several anonymized reports into a pattern of behavior, and take action on that pattern.
+
+In some cases we may determine that a public statement will need to be made. If that's the case, the identities of all victims and reporters will remain confidential unless those individuals instruct us otherwise.
+
+## Report Handling Procedure
+
+When you make a report to an incident responder, they will gather information about the incident according to the PyCon US [Staff Procedure For Incident Response](https://us.pycon.org/2018/about/code-of-conduct/staff-procedure/).
+
+After an incident responder takes the report, they will immediately consult with the lead incident responders (Sage Sharp, Ewa Jodlowska, and Ernest W. Durbin III).
+
+If the incident is ongoing and needs to be immediately addressed, any one of the lead incident responders may take appropriate action to ensure the safety of everyone involved.
+
+If the incident is less urgent, the three incident leads will meet within 24 hours to determine an appropriate response. Examples of possible incident responses are outlined in the PyCon US [Staff Procedure For Incident Response](https://us.pycon.org/2018/about/code-of-conduct/staff-procedure/).
+
+Before the conference, staff will have a mandatory meeting where incident response procedures will be outlined. After the conference, all incident responders will attend a debriefing session with the lead responders to discuss all incidents and determine any necessary follow-up actions.
+
+## Following Up With Reporters
+
+Within one week of an incident report, the lead responders will follow up with the person who made the report and provided their contact information. The follow up may include:
+
+* An acknowledgment that the PyCon US lead responders discussed the situation
+* Whether or not the report was determined to be a violation of the Code of Conduct
+* What actions (if any) were taken to correcting the reporter behavior
+
+In some cases, the lead responders may need to ask additional questions about the incident in order to identify the reported person.
+
+## Conflicts of Interest
+
+If an incident responder has a conflict of interest for a report, they will recuse themselves from the discussion and handling of the incident. The incident documentation will not be available to them, and they will excuse themselves from any conversations involving handling the incident.
+
+Should two out of the three lead incident responders need to recuse themselves, Naomi Ceder (PSF's chairperson) will step in as a lead incident responder.
+
+---
+
+This procedure has been adapted from the Ada Initiative's guide titled "[Conference anti-harassment/Responding to Reports](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Responding_to_reports)”, the [Django Project reporting guidelines](https://www.djangoproject.com/conduct/reporting/) (CC BY 3.0) and has been updated by [Otter Tech](https://otter.technology/).
