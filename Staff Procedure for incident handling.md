@@ -10,7 +10,8 @@ Also have a good understanding of what is expected from an attendee that wants t
 
 ### When taking an incident report:
 
-1. Ask the reporter if they want to go to a quiet space, TBD
+1. Ask the reporter if they want to go to a quiet space
+    - Room 23 on May 11, Room 25C May 12-13
 1. Be an active listener and don't use judgement words
 1. Ensure the reporter's safety
 1. Seek additional emergency resources as needed (consult the volunteer guide)
@@ -63,7 +64,8 @@ Respond to reporter needs. You can:
 * Reassure them that the incident report will be reviewed by the lead incident responders
 * Gather their contact information to send a follow-up after the incident is resolved
 * Offer to get them water
-* Tell them where or take them to the attendee quiet room (Room 24) or the speaker quiet room (Room 13)
+* Tell them where the Safety Room is. Offer to escort them if desired.
+    - Room 23 on May 11, Room 25C May 12-13
 * Ask, "Is there a friend or trusted person who you would like to be with you?" If so, arrange for another incident responder to get this person.
 * Ask them, "How else can I help?"
 * Provide them with specific non-emergency or crisis contacts from the volunteer guide if necessary.
@@ -126,7 +128,9 @@ If some attendees were angered by the incident, it is best to apologize to them 
     * PyCon US - Conference Chair
     * ernest@python.org
 
-If contact cannot be made via phone or email, please proceed to the staff room: ROOM 11 at the Huntington Convention Center.
+If contact cannot be made via phone or email, please proceed to the staff room.
+
+Room 11 at the Huntington Convention Center.
 
 ---
 
