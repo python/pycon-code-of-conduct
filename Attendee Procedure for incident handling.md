@@ -57,7 +57,7 @@ Before the conference, staff will have a mandatory meeting where incident respon
 
 Within one week of an incident report, the lead responders will follow up with the person who made the report and provided their contact information. The follow up may include:
 
-* An acknowledgment that the PyCon U.S. lead responders discussed the situation
+* An acknowledgment that the PyCon US lead responders discussed the situation
 * Whether or not the report was determined to be a violation of the Code of Conduct
 * What actions (if any) were taken to correcting the reporter behavior
 
