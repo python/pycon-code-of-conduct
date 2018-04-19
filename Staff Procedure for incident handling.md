@@ -4,7 +4,7 @@ Be sure to have a good understanding of our Code of Conduct, which can be found 
 
 - https://us.pycon.org/2018/about/code-of-conduct/
 
-Also have a good understanding of what is expected from an attendee that wants to report a harassment incident. These guidelines can be found here:
+Also have a good understanding of what is expected from an attendee that wants to report an incident. These guidelines can be found here:
 
 - https://us.pycon.org/2018/about/code-of-conduct/attendee-procedure/
 
