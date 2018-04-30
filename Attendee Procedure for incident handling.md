@@ -4,7 +4,7 @@
 
 If you believe someone has violated the [PyCon Code of Conduct](https://us.pycon.org/2018/about/code-of-conduct/), we encourage you to report it. If you are unsure whether the incident is a violation, or whether the space where it happened is covered by this Code of Conduct, we encourage you to still report it. We are fine with receiving reports where we decide to take no action for the sake of creating a safer space.
 
-During the conference you can make a reportedi:
+During the conference you can make a report:
 
   - To a trained incident responder, who will be wearing brightly colored shirts.
   - Email **<pycon-us-report@python.org>**
