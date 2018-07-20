@@ -91,7 +91,7 @@ When following up with a reported person:
 
 People who are reported often get upset, defensive, or deny the report. Allow them to give any additional details about the incident. However, remember:
 
-* It does not matter if they did not intend to hurt anyoneTheir behavior still impacted attendees negatively
+* It does not matter if they did not intend to hurt anyone -- their behavior still impacted attendees negatively
 * It is not your job to reassure or forgive them
 * Do not allow the reported person to make an apology to the reporter or impacted person. Often an apology centers the reported person’s feelings and not the person who was impacted. You may accept their apology and offer to pass it on (but you’re not required to if you think it would negatively impact the reporter).
 
@@ -106,12 +106,12 @@ What follows are examples of possible responses to an incident report. This list
 * Not publishing the video or slides of a talk that violated the Code of Conduct
 * Not allowing a speaker who violated the Code of Conduct to give (further) talks at the event now or in the future
 * Immediately ending any event volunteer responsibilities and privileges the a person holds
-* Requiring that a person not volunteer for future events your organization runs (either indefinitely or for a certain time period)
-* Requiring that a person refund any travel grants and similar they received (this would need to be a condition of the grant at the time of being awarded)
-* Requiring that a person  immediately leave the event and not return
+* Requiring that a person not volunteer for future events (either indefinitely or for a certain time period)
+* Requiring that a person refund any travel grants and similar they received
+* Requiring that a person immediately leave the event and not return
 * Banning a person from future events (either indefinitely or for a certain time period)
-* Removing a person  from membership of relevant organizations
-* Publishing an account of the incident and calling for the resignation of a person from their responsibilities (usually pursued by people without formal authority: may be called for if the person is the event leader, or refuses to stand aside from the conflict of interest, or similar, typically event staff have sufficient governing rights over their space that this isn't as useful)
+* Removing a person from membership of relevant organizations
+* Publishing an account of the incident and (optionally) calling for the resignation of a person from their responsibilities
 
 If a reported person wants to appeal the decision, notify them that they may contact the Python Software Foundation Board <psf@python.org>. Keep in mind that it is not a good idea to encourage an apology from the reported person.
 
@@ -134,4 +134,4 @@ Room 11 at the Huntington Convention Center.
 
 ---
 
-This procedure has been adapted from the Ada Initiative’s guide titled "[Conference anti-harassment/Responding to Reports](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Responding_to_reports)" and has been updated by [Otter Tech](https://otter.technology/).
+This procedure has been adapted from the Ada Initiative’s guide titled "[Conference anti-harassment/Responding to Reports](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Responding_to_reports)" and has been updated by [Otter Tech](https://otter.technology/code-of-conduct-training).
