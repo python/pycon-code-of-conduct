@@ -47,7 +47,7 @@ No weapons are allowed at conference venues, including but not limited to explos
 
 Attendees are further expected to comply with all state and local laws on this matter.
 
-##Scope
+## Scope
 
 All PyCon US attendees are subject to the Code of Conduct. This includes PyCon US staff and volunteers, as well as attendees of the tutorials, workshops, summits, poster sessions, receptions, conference, sprints, and sponsored or unofficial events.
 
